@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c6f5df2-3d19-4243-9c8a-9c00d6b8aa40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\profession\mavenTwo\repository" />
+        <option name="mavenHome" value="G:/profession/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="G:\profession\mavenTwo\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LfrItUGmSV7fBjHKkst0txuIe1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../activeMqFile/activemq" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.123304546" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="factory" />
+      <recent name="fruitFactory.service.Impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zwproject\testProject\how2j\springcloud\fruits\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.testPrice (1)">
+    <configuration name="PriceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PriceApplication" />
+      <module name="fruits" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testPrice (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fruits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.test" />
+      <option name="METHOD_NAME" value="testPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fruits" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="testPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fruits" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.PriceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.testPrice (1)" />
+        <item itemvalue="JUnit.test.testPrice" />
+        <item itemvalue="Application.PriceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c6f5df2-3d19-4243-9c8a-9c00d6b8aa40" name="Default Changelist" comment="" />
+      <created>1676272901305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676272901305</updated>
+      <workItem from="1676272905055" duration="11911000" />
+      <workItem from="1676434927627" duration="2117000" />
+      <workItem from="1676437261049" duration="1963000" />
+      <workItem from="1676439512370" duration="7047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="119" key="#Project_Structure" timestamp="1676280866204">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="362" y="119" key="#Project_Structure/0.0.1536.920@0.0.1536.920" timestamp="1676280866204" />
+    <state x="575" y="177" key="#com.intellij.ide.util.MemberChooser" timestamp="1676280148965">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="575" y="177" key="#com.intellij.ide.util.MemberChooser/0.0.1536.920@0.0.1536.920" timestamp="1676280148965" />
+    <state x="390" y="139" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1676273318774">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="390" y="139" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.920@0.0.1536.920" timestamp="1676273318774" />
+    <state x="373" y="386" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1676437907934">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="373" y="386" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.920@0.0.1536.920" timestamp="1676437907934" />
+    <state x="550" y="216" key="FileChooserDialogImpl" timestamp="1676442501617">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="550" y="216" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1676442501617" />
+    <state width="1493" height="449" key="GridCell.Tab.0.bottom" timestamp="1676446141818">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1676446141818" />
+    <state width="1493" height="449" key="GridCell.Tab.0.center" timestamp="1676446141818">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1676446141818" />
+    <state width="1493" height="449" key="GridCell.Tab.0.left" timestamp="1676446141818">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1676446141818" />
+    <state width="1493" height="449" key="GridCell.Tab.0.right" timestamp="1676446141818">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1676446141818" />
+    <state width="1493" height="300" key="GridCell.Tab.1.bottom" timestamp="1676442961081">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1676442961081" />
+    <state width="1493" height="300" key="GridCell.Tab.1.center" timestamp="1676442961080">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1676442961080" />
+    <state width="1493" height="300" key="GridCell.Tab.1.left" timestamp="1676442961080">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1676442961080" />
+    <state width="1493" height="300" key="GridCell.Tab.1.right" timestamp="1676442961080">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1676442961080" />
+    <state x="300" y="116" key="Maven.ArtifactSearchDialog" timestamp="1676279845492">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="300" y="116" key="Maven.ArtifactSearchDialog/0.0.1536.920@0.0.1536.920" timestamp="1676279845492" />
+    <state x="271" y="71" key="SettingsEditor" timestamp="1676280502858">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="271" y="71" key="SettingsEditor/0.0.1536.920@0.0.1536.920" timestamp="1676280502858" />
+    <state x="431" y="196" width="672" height="678" key="search.everywhere.popup" timestamp="1676278353417">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="431" y="196" width="672" height="678" key="search.everywhere.popup/0.0.1536.920@0.0.1536.920" timestamp="1676278353417" />
+  </component>
+</project>
